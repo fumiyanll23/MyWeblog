@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sample Page
+description: This page is just a sample page!
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fumiyanll23/MyWeblog/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
