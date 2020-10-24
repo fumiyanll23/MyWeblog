@@ -1,9 +1,3 @@
----
-layout: default
-title: Fumiyan's Weblog
-description: This page is Fumiyan's Weblog!
----
-
 # 503 Service Unavailable
 
 ### So Sorry:(
