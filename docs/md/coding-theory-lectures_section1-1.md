@@ -1,6 +1,6 @@
 # Chapter 1 線形符号の基礎概念 - Basic consepts of linear codes
 
-## 導入 -Introduction
+## 導入 - Introduction
 
 1948年後半, C.Shannon，Hamming，Golayなどによって**符号理論} (coding theory) の研究は始められた.
 歴史的に見て, 符号理論は, ノイズのある通信路におけるメッセージの送受信に関する数学的な基礎概念として創始された.
