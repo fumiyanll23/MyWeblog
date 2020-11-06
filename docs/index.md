@@ -12,9 +12,7 @@
 
 ## Articles
 
-### Coding theory lectures
-
-- [Section 1-1](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures_section1-1.html)
+- Coding theory lectures <- Now, writing ......
 
 ## Links
 
@@ -23,3 +21,5 @@
 - GitHub: [fumiyanll23](https://github.com/fumiyanll23)
 
 - AtCoder: [fumiyanll23](https://atcoder.jp/users/fumiyanll23)
+
+- [Amazon Wish List](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)
