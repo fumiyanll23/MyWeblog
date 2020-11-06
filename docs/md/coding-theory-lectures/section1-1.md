@@ -24,6 +24,6 @@ $$
 
 
 線形符号の研究においてよく知られている3つの体とは, 
-- 2元体 (binary field) $\mathbb Z_2 = \mathbb{F}_2 = \mbox{\{}0, 1\mbox{\{}}$
+- 2元体 (binary field) $\mathbb Z_2 = \mathbb{F}_2 = \{0, 1\}$
 - 3元体 (ternary field) $\mathbb Z_3 = \mathbb{F}_3 = \{0, 1, 2\}$
 - 4元体 (quaternary field) $\mathbb{F}_4 = \{0, 1, \omega, \bar{\omega} = 1 + \omega = \omega^2\}$
