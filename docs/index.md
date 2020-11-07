@@ -1,20 +1,28 @@
-# Welcome to MyWeblog !!
+# ようこそ MyWeblog へ!!
 
-## Who Am I ?
+このページの英語版は[こちら](https://fumiyanll23.github.io/MyWeblog/index_en.html).
 
-- Name: **Fumiya Narita** a.k.a. Fumiyan
+## 自己紹介 - 2020/11/07 現在
 
-- Affiliation: Department of **Mathemarical Engineering**, Kumamoto University
+- 名前: [成田史弥](https://twitter.com/fumiyanll23) a.k.a. Fumiyan
 
-- Majors: **Coding Theory**, Cryptography
+- 所属: 熊本大学工学部[数理工学科](https://srik.kumamoto-u.ac.jp/)
 
-- Languages: **Japanese**, English, **Python**, C/C++
+- 専門: 符号理論, 暗号理論
 
-## Articles
+- 言語: **日本語**, 英語, **Python**, C/C++
 
-- Coding theory lectures <- Now, writing ......
+## 記事
 
-## Links
+### 執筆中
+
+- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/CTL_README.html)
+
+### 執筆済み
+
+- NULL
+
+## 各種リンク
 
 - Twitter: [@fumiyanll23](https://twitter.com/fumiyanll23)
 
@@ -22,4 +30,4 @@
 
 - AtCoder: [fumiyanll23](https://atcoder.jp/users/fumiyanll23)
 
-- [Amazon Wish List](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)
+- [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)
