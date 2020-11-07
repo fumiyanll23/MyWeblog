@@ -16,7 +16,7 @@ The Japanese version of this page is [HERE](https://fumiyanll23.github.io/MyWebl
 
 ### Now writing ...
 
-- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/CTL_README_en.html)
+- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/index_en.html)
 
 ### Already written
 

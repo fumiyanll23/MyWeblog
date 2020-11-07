@@ -16,7 +16,7 @@
 
 ### 執筆中
 
-- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/CTL_README.html)
+- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/)
 
 ### 執筆済み
 
