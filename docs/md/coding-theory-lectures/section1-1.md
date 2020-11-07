@@ -6,7 +6,7 @@
 歴史的に見て, 符号理論は, ノイズのある通信路におけるメッセージの送受信に関する数学的な基礎概念として創始された.
 実際, 様々な応用例が発見されている. 例えば, CDの録音における雑音の最小化や相互電話線における財務情報の伝達, コンピュータから他のコンピュータへのデータの送信などがそれに当たる. 符号理論が扱う問題は識別と, 通信路における雑音による発生する誤りの訂正である.
 
-## 1.1 3つの体 - Three fields
+## 1.1. 3つの体 - Three fields
 
 **体** (field) $\mathbb{F}$とは, 1つの集合と2つの演算 (通常，加算$+$と乗算$\bullet$) が以下の4つの条件を満たすような代数的構造である:
 1. $(\mathbb{F}, +)$は**アーベル群** (abelian group) である.
@@ -20,7 +20,7 @@ $$
 \forall a, b, c \in \mathbb{F}, a \bullet (b+c) = a \bullet b + a \bullet c, (b+c) \bullet a = b \bullet a + c \bullet a
 $$
 が成り立つ. **(分配則)**
-4. $\mathbb{F}^{\ast} = \mathbb{F}- \{ 0 \}$とすると, $(\mathbb{F}^{\ast}, \bullet)$は**可換群** (commutative group) である.
+4. $\mathbb{F}^{\ast} = \mathbb{F}-${$0$}とすると, $(\mathbb{F}^{\ast}, \bullet)$は**可換群** (commutative group) である.
 
 
 線形符号の研究においてよく知られている3つの体とは, 
