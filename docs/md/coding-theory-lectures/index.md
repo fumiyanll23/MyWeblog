@@ -1,6 +1,6 @@
 # Coding theory lectures
 
-このページの英語版は[こちら](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/index_en.html).
+このページの英語版は[こちら](https://fumiyan.work/md/coding-theory-lectures/index_en.html).
 
 元のファイルは[こちら](http:/site.iugaza.edu.ps/mashker/files/2010/02/coding_theory_lecturs_for_m_Al-Ashker.pdf).
 

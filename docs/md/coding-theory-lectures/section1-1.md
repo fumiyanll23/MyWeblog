@@ -1,3 +1,5 @@
+[Coding theory lectures へ戻る](https://fumiyan.work/md/coding-theory-lectures/)
+
 # Chapter 1 線形符号の基礎概念 - Basic consepts of linear codes
 
 ## 導入 - Introduction

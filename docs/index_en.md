@@ -1,6 +1,6 @@
 # Welcome to MyWeblog !!
 
-The Japanese version of this page is [HERE](https://fumiyanll23.github.io/MyWeblog/).
+The Japanese version of this page is [HERE](https://fumiyan.work/).
 
 ## Who Am I ? - As of Novmber 7th, 2020
 
@@ -16,7 +16,7 @@ The Japanese version of this page is [HERE](https://fumiyanll23.github.io/MyWebl
 
 ### Serieses of Underconstructing
 
-- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/index_en.html)
+- [Coding theory lectures](https://fumiyan.work/md/coding-theory-lectures/index_en.html)
 
 ## Links
 

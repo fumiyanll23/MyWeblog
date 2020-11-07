@@ -1,10 +1,9 @@
 ---
-Title: MyWeblog
+title: Fumiyan's MyWeblog
 ---
-
 # ようこそ MyWeblog へ!!
 
-このページの英語版は[こちら](https://fumiyanll23.github.io/MyWeblog/index_en.html).
+このページの英語版は[こちら](https://fumiyan.work/index_en.html).
 
 ## 自己紹介 - 2020/11/07 現在
 
@@ -20,7 +19,7 @@ Title: MyWeblog
 
 ### 執筆中のシリーズ
 
-- [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/)
+- [Coding theory lectures](https://fumiyan.work/md/coding-theory-lectures/)
 
 ## 各種リンク
 

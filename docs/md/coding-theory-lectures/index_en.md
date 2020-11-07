@@ -1,6 +1,6 @@
 # Coding theory lectures
 
-The Japanese version of this page is [HERE](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/).
+The Japanese version of this page is [HERE](https://fumiyan.work/md/coding-theory-lectures/).
 
 Original file (in English) is [HERE](http:/site.iugaza.edu.ps/mashker/files/2010/02/coding_theory_lecturs_for_m_Al-Ashker.pdf).
 
