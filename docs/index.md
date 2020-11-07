@@ -1,3 +1,7 @@
+---
+Title: MyWeblog
+---
+
 # ようこそ MyWeblog へ!!
 
 このページの英語版は[こちら](https://fumiyanll23.github.io/MyWeblog/index_en.html).
@@ -14,20 +18,16 @@
 
 ## 記事
 
-### 執筆中
+### 執筆中のシリーズ
 
 - [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/)
 
-### 執筆済み
-
-- NULL
-
 ## 各種リンク
+
+- [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)
 
 - Twitter: [@fumiyanll23](https://twitter.com/fumiyanll23)
 
 - GitHub: [fumiyanll23](https://github.com/fumiyanll23)
 
 - AtCoder: [fumiyanll23](https://atcoder.jp/users/fumiyanll23)
-
-- [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)

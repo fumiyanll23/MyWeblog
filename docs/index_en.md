@@ -14,20 +14,16 @@ The Japanese version of this page is [HERE](https://fumiyanll23.github.io/MyWebl
 
 ## Articles
 
-### Now writing ...
+### Serieses of Underconstructing
 
 - [Coding theory lectures](https://fumiyanll23.github.io/MyWeblog/md/coding-theory-lectures/index_en.html)
 
-### Already written
-
-- NULL
-
 ## Links
+
+- [Amazon Wish List](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)
 
 - Twitter: [@fumiyanll23](https://twitter.com/fumiyanll23)
 
 - GitHub: [fumiyanll23](https://github.com/fumiyanll23)
 
 - AtCoder: [fumiyanll23](https://atcoder.jp/users/fumiyanll23)
-
-- [Amazon Wish List](https://www.amazon.jp/hz/wishlist/ls/3RMAAFUQVHP92?ref_=wl_share)
