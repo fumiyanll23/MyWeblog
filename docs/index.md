@@ -1,5 +1,6 @@
 ---
 title: Fumiyan's MyWeblog
+description: home page
 ---
 # ようこそ MyWeblog へ!!
 
